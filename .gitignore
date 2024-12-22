@@ -156,7 +156,6 @@ cython_debug/
 # Custom
 was_suite_settings.json
 styles.json
-was_suite_config.json
 workflows/
 was_history.json
 nsp_pantry.json
